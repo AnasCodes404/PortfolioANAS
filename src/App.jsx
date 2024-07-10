@@ -6,6 +6,7 @@ import Hero from './section/Hero/Hero'
 import Projects from './section/Projects/Projects'
 import Contact from './section/Contact/contact'
 import Skills from './section/Skills/skills'
+import Footer from './section/Footer/Footer'
 
 
 function App() {
@@ -111,6 +112,8 @@ console.log(text);
     <Projects/>
     <Skills/>
     <Contact/>
+    <Footer/>
+    
     
     </>
     
