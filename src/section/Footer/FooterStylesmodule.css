@@ -5,4 +5,8 @@
         font-size: 16px;
         color: var(--form-text-color);
     }
+    h1{
+        font-size: 24px;
+        font-style: italic
+    }
 }
