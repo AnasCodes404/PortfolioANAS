@@ -110,7 +110,7 @@ console.log(text);
     <>
     <Hero/>
     <Projects/>
-    <Skills/>
+    
     <Contact/>
     <Footer/>
     
