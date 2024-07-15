@@ -1,6 +1,6 @@
 import React from "react";
 import styles from "./ProjectsStyles.module.css";
-import Viberr from "../../assets/viberr.png";
+import book from "../../assets/book.png"
 import FreshBurger from "../../assets/fresh-burger.png";
 import Hipster from "../../assets/hipsster.png";
 import FitLift from "../../assets/fitlift.png";
@@ -16,10 +16,10 @@ function Projects(){
             <h1 className="sectionTitle">Projects</h1>
             <div className={styles.projectsContainer}>
             <ProjectCard
-                src={Viberr}
-                link='www.github.com'
-                p='Viberss vibe here - Music Streaming Webapp'
-                h3="Viberr"
+                src={book}
+                link='https://book-rental-app-six.vercel.app/#'
+                
+                h3="Book Rental App"
                 />
 
 
