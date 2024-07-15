@@ -10,6 +10,17 @@ import sun from '../../assets/sun.svg'
 import moon from '../../assets/moon.svg'
 import CV from '../../assets/cv.pdf'
 import { useTheme } from '../../common/ThemeContext'
+import { TiHtml5 } from "react-icons/ti"
+import { FaCss3Alt } from "react-icons/fa"
+import { SiTailwindcss } from "react-icons/si"
+import { SiJavascript } from "react-icons/si"
+import { FaReact } from "react-icons/fa"
+import { FaNodeJs } from "react-icons/fa"
+import { HiDatabase } from "react-icons/hi"
+import { SiSolidity } from "react-icons/si"
+import { SiMongodb } from "react-icons/si";
+
+
 
 
 
@@ -57,7 +68,8 @@ function Hero(){
                         <img src={linkedinIcon} alt="linkedinIcon icon" />
                     </a>
                 </span>
-                <p className={styles.description}>Designing modern web application from 20  Extensively providing Ai solution and Data Modelling</p>
+                <p className={styles.description}>Fullstack Engineer | Blockchain | Startups | Web3 | AI</p>
+                <h2> <TiHtml5 />  <FaCss3Alt />  <SiTailwindcss />  <SiJavascript />  <FaReact />  <FaNodeJs />  <HiDatabase />  Express.<SiJavascript />  <SiMongodb />  <SiSolidity /></h2>
                 <a href={CV}>
                     <button className='hover' download>
                         Resume
