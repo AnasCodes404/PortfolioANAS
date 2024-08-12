@@ -1,8 +1,8 @@
 import React from "react";
 import styles from "./ProjectsStyles.module.css";
 import book from "../../assets/book.png"
-import FreshBurger from "../../assets/fresh-burger.png";
-import Hipster from "../../assets/hipsster.png";
+import xyz from "../../assets/xyz.png"
+import relocate from "../../assets/relocate.png"
 import FitLift from "../../assets/fitlift.png";
 
 import ProjectCard from "../../common/ProjectsCard";
@@ -18,23 +18,22 @@ function Projects(){
             <ProjectCard
                 src={book}
                 link='https://book-rental-app-six.vercel.app/#'
-                
                 h3="Book Rental App"
                 />
 
 
                 <ProjectCard
-                src={FreshBurger}
-                link='wwww.github.com'
-                p='Delicious Burger here only'
+                src={relocate}
+                link='https://courageous-donut-bbac29.netlify.app/'
+                p='Relocation'
                 h3= "FreshBurger (LINK NOT WORKING)"
                 />
 
 <ProjectCard 
-                src={Hipster}
-                link='www.github.com'
-                p='Hipster for Shades & Glassses'
-                h3="Hipster (LINK NOT WORKING)"
+                src={xyz}
+                link='https://xyz-react-app.vercel.app/'
+                p='XYZ'
+                h3="App format for your APP"
                 />
 
 
