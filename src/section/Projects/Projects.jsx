@@ -27,14 +27,14 @@ function Projects(){
                 src={FreshBurger}
                 link='wwww.github.com'
                 p='Delicious Burger here only'
-                h3= "FreshBurger"
+                h3= "FreshBurger (LINK NOT WORKING)"
                 />
 
 <ProjectCard 
                 src={Hipster}
                 link='www.github.com'
                 p='Hipster for Shades & Glassses'
-                h3="Hipster"
+                h3="Hipster (LINK NOT WORKING)"
                 />
 
 
@@ -42,7 +42,7 @@ function Projects(){
                 src={FitLift}
                 link='www.github.com'
                 p='FitLift for getting fit and best'
-                h3="FitLift"
+                h3="FitLift (LINK NOT WORKING)"
                 />                           
         
             </div>
