@@ -1,8 +1,8 @@
 import React from "react";
 import styles from "./ProjectsStyles.module.css";
 import book from "../../assets/book.png"
-import xyz from "../../assets/xyz.png"
-import relocate from "../../assets/relocate.png"
+import xyz from "../../assets/xyz1.png"
+import relocate from "../../assets/relocate1.png"
 import FitLift from "../../assets/fitlift.png";
 
 import ProjectCard from "../../common/ProjectsCard";
