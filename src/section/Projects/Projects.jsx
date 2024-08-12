@@ -16,18 +16,21 @@ function Projects(){
             <h1 className="sectionTitle">Projects</h1>
             <div className={styles.projectsContainer}>
             <ProjectCard
+                src={relocate}
+                link='https://courageous-donut-bbac29.netlify.app/'
+                p='Relocation'
+                h3= "WE PROVIDE RELOCATION "
+                />
+
+
+                <ProjectCard
                 src={book}
                 link='https://book-rental-app-six.vercel.app/#'
                 h3="Book Rental App"
                 />
 
 
-                <ProjectCard
-                src={relocate}
-                link='https://courageous-donut-bbac29.netlify.app/'
-                p='Relocation'
-                h3= "WE PROVIDE RELOCATION "
-                />
+                
 
 <ProjectCard 
                 src={xyz}
