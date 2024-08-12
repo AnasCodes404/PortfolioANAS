@@ -26,7 +26,7 @@ function Projects(){
                 src={relocate}
                 link='https://courageous-donut-bbac29.netlify.app/'
                 p='Relocation'
-                h3= "FreshBurger (LINK NOT WORKING)"
+                h3= "WE PROVIDE RELOCATION"
                 />
 
 <ProjectCard 
