@@ -18,7 +18,6 @@ import { FaReact } from "react-icons/fa"
 import { FaNodeJs } from "react-icons/fa"
 import { HiDatabase } from "react-icons/hi"
 import { SiSolidity } from "react-icons/si"
-import { SiMongodb } from "react-icons/si";
 
 
 
@@ -56,7 +55,7 @@ function Hero(){
             </div>
             <div className={styles.info}>
                 <h1>ANAS <br/> SHAIKH</h1>
-                <h2>Software Engineer</h2>
+                <h2>Frontend Engineer</h2>
                 <span>
                     <a href="https://x.com/anascodes404?s=21&t=Sy4IK1-UrFAEr4H4fwqAYw" target='_blank'>
                         <img src={twitterIcon} alt="twitter icon" />
@@ -69,7 +68,7 @@ function Hero(){
                     </a>
                 </span>
                 <p className={styles.description}>Frontend Engineer | React | Blockchain| Web3 | AI</p>
-                <h2> <TiHtml5 />  <FaCss3Alt />  <SiTailwindcss />  <SiJavascript />  <FaReact />  <FaNodeJs />  <HiDatabase />  Express.<SiJavascript />  <SiMongodb />  <SiSolidity /></h2>
+                <h2> <TiHtml5 />  <FaCss3Alt />  <SiTailwindcss />  <SiJavascript />  <FaReact />  <FaNodeJs />  <HiDatabase />   <SiSolidity /></h2>
                 <a href={CV}>
                     <button className='hover' download>
                         Resume
