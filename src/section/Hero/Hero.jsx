@@ -68,7 +68,7 @@ function Hero(){
                         <img src={linkedinIcon} alt="linkedinIcon icon" />
                     </a>
                 </span>
-                <p className={styles.description}>Fullstack Engineer | Blockchain | Startups | Web3 | AI</p>
+                <p className={styles.description}>Frontend Engineer | React | Blockchain| Web3 | AI</p>
                 <h2> <TiHtml5 />  <FaCss3Alt />  <SiTailwindcss />  <SiJavascript />  <FaReact />  <FaNodeJs />  <HiDatabase />  Express.<SiJavascript />  <SiMongodb />  <SiSolidity /></h2>
                 <a href={CV}>
                     <button className='hover' download>
