@@ -8,7 +8,7 @@ import githubDark from '../../assets/github-dark.svg'
 import linkedinDark from '../../assets/linkedin-dark.svg'
 import sun from '../../assets/sun.svg'
 import moon from '../../assets/moon.svg'
-import CV from '../../assets/sd.pdf'
+import CV from '../../assets/ecv.pdf'
 import { useTheme } from '../../common/ThemeContext'
 import { TiHtml5 } from "react-icons/ti"
 import { FaCss3Alt } from "react-icons/fa"
