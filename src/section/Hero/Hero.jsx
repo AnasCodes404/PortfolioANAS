@@ -55,7 +55,7 @@ function Hero(){
             </div>
             <div className={styles.info}>
                 <h1>ANAS <br/> SHAIKH</h1>
-                <h2>Frontend Engineer</h2>
+                <h2>Solidity Developer | Frontend | Web3 | AI&ML | Web3</h2>
                 <span>
                     <a href="https://x.com/anascodes404?s=21&t=Sy4IK1-UrFAEr4H4fwqAYw" target='_blank'>
                         <img src={twitterIcon} alt="twitter icon" />
@@ -67,7 +67,7 @@ function Hero(){
                         <img src={linkedinIcon} alt="linkedinIcon icon" />
                     </a>
                 </span>
-                <p className={styles.description}>Frontend Engineer | React | Blockchain| Web3 | AI</p>
+                
                 <h2> <TiHtml5 />  <FaCss3Alt />  <SiTailwindcss />  <SiJavascript />  <FaReact />  <FaNodeJs />  <HiDatabase />   <SiSolidity /></h2>
                 <a href={CV}>
                     <button className='hover' download>
