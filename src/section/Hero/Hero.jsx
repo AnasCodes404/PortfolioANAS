@@ -8,7 +8,7 @@ import githubDark from '../../assets/github-dark.svg'
 import linkedinDark from '../../assets/linkedin-dark.svg'
 import sun from '../../assets/sun.svg'
 import moon from '../../assets/moon.svg'
-import CV from '../../assets/LY.pdf'
+import CV from '../../assets/fr1.pdf'
 import { useTheme } from '../../common/ThemeContext'
 import { TiHtml5 } from "react-icons/ti"
 import { FaCss3Alt } from "react-icons/fa"
@@ -55,7 +55,7 @@ function Hero(){
             </div>
             <div className={styles.info}>
                 <h1>ANAS <br/> SHAIKH</h1>
-                <h2>Blockchain Developer | Smart Contract Auditor | Frontend | AI&ML | DeFi</h2>
+                <h2>Frontend Developer | Blockchain  | AI&ML | DeFi</h2>
                 <span>
                     <a href="https://x.com/anascodes404?s=21&t=Sy4IK1-UrFAEr4H4fwqAYw" target='_blank'>
                         <img src={twitterIcon} alt="twitter icon" />
